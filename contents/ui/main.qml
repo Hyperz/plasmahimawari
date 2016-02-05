@@ -81,7 +81,7 @@ Rectangle {
 
                     else
 
-                        imageGridModel.setProperty(i, "image", urls[i])
+                        imageGridModel.setProperty(i, "image", urls[i]);
 
                 }
 

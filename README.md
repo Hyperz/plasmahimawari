@@ -1,6 +1,6 @@
 ## Plasma Himawari
 
-A KDE Plasma 5 wallpaper plugin which shows a semi-reatime view of Earth using images from [Himawari](http://himawari8.nict.go.jp/).
+A KDE Plasma 5 wallpaper plugin which shows a semi-realtime view of Earth using images from [Himawari](http://himawari8.nict.go.jp/).
 
 
 ##### Screenshot:
