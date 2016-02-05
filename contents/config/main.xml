@@ -7,8 +7,8 @@
     <kcfgfile name=""/>
 
     <group name="General">
-        <entry name="pew" type="bool">
-            <label>Pew Pew Noises</label>
+        <entry name="tmp" type="bool">
+            <label>tmp</label>
             <default>false</default>
         </entry>
     </group>
