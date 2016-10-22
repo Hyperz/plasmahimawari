@@ -35,7 +35,7 @@ function getOptimalDetailLevel(width, height, imgSize) {
     var nearest = Math.pow(2, Math.round(Math.log(div) / Math.log(2)));
     var optimalDetailLevel = (nearest > 20) ? 20 : Math.max(nearest, 1);
 
-    return optimalDetailLevel; // Possible values: 1, 2, 4, 8, 16, 20
+    return optimalDetailLevel;
 
 }
 

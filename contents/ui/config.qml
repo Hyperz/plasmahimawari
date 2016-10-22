@@ -32,6 +32,7 @@ ColumnLayout {
 
         text: "<br/>Images are provided by <a href=\"http://himawari8.nict.go.jp/\">himawari8.nict.go.jp</a>."
         onLinkActivated: Qt.openUrlExternally(link)
+
     }
 
 }

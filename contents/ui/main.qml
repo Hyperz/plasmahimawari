@@ -27,7 +27,7 @@ Rectangle {
     
     id: root
     width: Screen.width
-    height: Screen.height;
+    height: Screen.height
     color: "black"
 
     GridView {
@@ -55,7 +55,7 @@ Rectangle {
         }
 
     }
-    
+
     Timer {
 
         id: updateTimer
@@ -67,7 +67,7 @@ Rectangle {
 
             var callback = function(urls) {
 
-                var rebuild = (urls.length !== imageGridModel.count)
+                var rebuild = (urls.length !== imageGridModel.count);
 
                 if (rebuild)
 
